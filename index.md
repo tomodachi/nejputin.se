@@ -1,4 +1,5 @@
 ---
+layout: home
 ---
 
 {% assign all = site.companies | sort: "name" %}
@@ -16,7 +17,7 @@
 <tbody>
 {% for company in companies %}
   <tr>
-  <td markdown="span"><a href="{{ company.url }}">{{ company.name }}</a></td>
+  <td markdown="span"><a href="{{ company.website }}">{{ company.name }}</a></td>
   <td markdown="span"><a href="{{ company.source }}">{{ company.source_name }}</a></td>
   <td>{{ company.comment }}</td>
   <td>{{ company.updated_at }}</td>
