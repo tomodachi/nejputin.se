@@ -11,7 +11,7 @@
 
 <table class="sortable">
 <thead>
-<tr><th>Company</th><th>Source</th><th>Comment</th><th>Date Updated</th></tr>
+<tr><th>Företag</th><th>Källa</th><th>Kommentar</th><th>Uppdaterat</th></tr>
 </thead>
 <tbody>
 {% for company in companies %}

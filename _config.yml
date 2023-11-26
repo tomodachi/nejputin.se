@@ -1,13 +1,10 @@
-title: The SSO Wall of Shame
+title: Bojkotta kriget
 description: >-
-  A list of vendors that treat single sign-on as a luxury feature, not a core
-  security requirement.
+  En lista över företag som inte bojkottar ryssland och genom sin försäljning underlättar rysslands kring i Ukraina
 
 url: https://njetputin.se
 
-# Not included by default but throws a Liquid exception if not present;
-# error only thrown in GHA, not during local builds
-repository: robchahin/sso-wall-of-shame
+theme: minima
 
 # theme: jekyll-theme-cayman
 # kramdown:
