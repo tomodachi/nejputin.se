@@ -1,0 +1,17 @@
+title: The SSO Wall of Shame
+description: >-
+  A list of vendors that treat single sign-on as a luxury feature, not a core
+  security requirement.
+
+url: https://njetputin.se
+
+# Not included by default but throws a Liquid exception if not present;
+# error only thrown in GHA, not during local builds
+repository: robchahin/sso-wall-of-shame
+
+# theme: jekyll-theme-cayman
+# kramdown:
+#   parse_block_html: true
+
+collections:
+  - companies
