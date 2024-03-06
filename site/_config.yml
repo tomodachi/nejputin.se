@@ -7,5 +7,7 @@ description: >-
 
 theme: minima
 
+url: https://nejputin.se
+
 collections:
   - companies
