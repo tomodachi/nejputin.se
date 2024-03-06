@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign all = site.companies  %}
+{% assign all = site.companies | sort: "name" %}
 {% assign companies = "" | split: ',' %}
 {% for company in all %}
 		{% assign companies = companies | push: company %}
