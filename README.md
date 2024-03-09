@@ -1,6 +1,6 @@
 # nejputin.se
 
-This repository is the source for the website nejputin.se
+This repository is the source for the website [nejputin.se](https://nejputin.se)
 It contains a blacklist of companies that indirectly or directly are helping The Russian state with their war in Ukraine in Sweden.
 This by either selling / buying or having busineses in Russia resulting in the Russian state getting TAX money from these companies
 Money that is directly funneled into Russias War effort.
