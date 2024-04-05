@@ -6,11 +6,11 @@ layout: default
 <summary>
 Varför bör jag bojkotta dessa företag?
 </summary>
-Dessa företag har en direkt eller indirekt en verksamhet som stödjer Rysslands anfallskrig i Ukraina.
-Detta genom att tex ha tillverkligen / fabriker / försäljning
-av produkter I och till Ryssland vilket genererar inkomster till Ryska staten.
+Företagen listade här har direkt eller indirekt en verksamhet som stödjer Rysslands anfallskrig i Ukraina.
+Detta genom att tex ha tillverkningen / fabriker / försäljning
+av produkter i eller till Ryssland vilket genererar inkomster till Ryska staten.
 Pengar som oavkortet går till krigsekonomin. Du kan med några enkla val
-protestera och påverka företagen och Ryssland med din plånbok.
+protestera och påverka företagen och Ryssland med din konsumtion.
 </details>
 
 <details open>
