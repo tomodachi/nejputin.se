@@ -2,13 +2,39 @@
 layout: default
 ---
 
+<details>
+<summary>
+Varför bör jag bojkotta dessa företag?
+</summary>
+På grund av Ryssland rasar ett storskaligt krig i Europa. Ryssland har oprovocerat anfallit ett demokratiskt och fritt grannland. Rysslands fullskaliga invasion av Ukraina fortsätter att medföra stort lidande för det ukrainska folket som just nu slåss för Europas säkerhet. 
+
+Trots detta fortsätter många västerländska och svenska företag sin verksamhet med Ryssland. 
+
+Företagen som ingår i som listas här har antingen tillverkning i Ryssland eller försäljning av sina produkter på den ryska marknaden. Det genererar inkomster till den ryska staten som i sin tur bidrar till Rysslands krigsekonomi. 
+
+Genom att välja att avstå från produkter från de här varumärkena har du möjlighet att påverka företagen att förhoppningsvis avsluta sin verksamhet med Ryssland. På så sätt minskar också förutsättningarna för Ryssland att fortsätta bedriva sitt krig, och för Ukraina att vinna tillbaka sin självständighet. 
+
+Vi kan alla göra något.
+</details>
+
+<details>
+<summary>
+Hur kan jag lämna förslag på företag att listas eller avlistas?
+</summary>
+Denna sidan är automatiskt genererad baserat på innehållet i filerna i <a href="https://github.com/tomodachi/nejputin.se/tree/main/_companies">denna mapp</a>
+Om du är tekniskt lagd kan  du skapa en "merge request" med förslag på förändringar. Du kan även kontakta mig på: "nejputin snabel-a fishface.se"
+
+Slava Ukraini.
+</details>
+
+<br>
+
 {% assign all = site.companies | sort: "name" %}
 {% assign companies = "" | split: ',' %}
 {% for company in all %}
 		{% assign companies = companies | push: company %}
 {% endfor %}
 
-## Svartlistan
   <table class="sortable">
     <thead>
       <tr><th>Företag</th><th>Källa</th><th>Kommentar</th><th>Uppdaterat</th></tr>
@@ -24,22 +50,3 @@ layout: default
     {% endfor %}
     </tbody>
   </table>
-
-<details>
-<summary>
-Varför bör jag bojkotta dessa företag?
-</summary>
-Företagen listade här har direkt eller indirekt en verksamhet som stödjer Rysslands anfallskrig i Ukraina.
-Detta genom att tex ha tillverkningen / fabriker / försäljning
-av produkter i eller till Ryssland vilket genererar inkomster till Ryska staten.
-Pengar som oavkortet går till krigsekonomin. Du kan med några enkla val
-protestera och påverka företagen och Ryssland med din konsumtion.
-</details>
-
-<details>
-<summary>
-Hur kan jag föreslå att lägga till/ta bort ett företag från denna lista?
-</summary>
-Denna sidan är automatiskt genererad baserat på innehållet i filerna i <a href="https://github.com/tomodachi/nejputin.se/tree/main/_companies">denna mapp</a>
-Är du mer tekniskt lagd kan  du skapa en "merge request" med förslag på förändringar. Annars kan du även prova på att kontakta mig på: "nejputin snabel-a fishface.se"
-</details>
