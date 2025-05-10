@@ -27,6 +27,14 @@ Om du är tekniskt lagd kan  du skapa en "merge request" med förslag på förä
 Slava Ukraini.
 </details>
 
+<details>
+<summary>
+Ladda ner och skriv ut klisterlappar för att göra din egen guerilla-marknadsföring
+</summary>
+Ladda ner klisterlappar <a href="https://github.com/tomodachi/nejputin.se/blob/main/stickers/nejputin-gevalia.pdf">här</a>
+Du kan hitta matchande klisterlappar på  <a href="https://www.clasohlson.com/se/Sjalvhaftande-etiketter-Hama/p/32-2618">Clas Ohlson</a> 
+</details>
+
 <br>
 
 {% assign all = site.companies | sort: "name" %}
